@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Let's%20rock%20'n'%20code&fontSize=60&animation=fadeIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:5337ff,50:45c8f2,100:a0fbce&height=100&section=header&text=Let's%20rock%20'n'%20code&fontSize=60&animation=twinkling&fontColor=f6f4f5)
 
 🤘Hi, I'm Jieun
 =======
@@ -34,9 +34,9 @@ A tech enthusiast with a passion for creating software that lasts 'Everlong', ju
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
 
 <br/><br/>
+---
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=jnk1m&theme=transparent&hide_border=true)
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=jnk1m&theme=dark&hide_border=false)
 
 
